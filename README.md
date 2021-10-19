@@ -6,20 +6,20 @@ The program takes the input of someone's name, their favorite number, combines t
 
 # Specifics
 
-'''python
+```python
 import hashlib
 ```
 
 The program imports *hashlib* for the ability to use *sha256* to hash the string.
 
-'''python
+```python
 name = input("what is your name?")
 ```
 Then, the program prompts the user for the input of a name with the string "What is your name?"
 
 The program then asks the user to input their favorite number within a try-except block, to ensure that the user actually enters a number. The string is then hashed using *sha256* and prints.
 
-'''python
+```python
 try:
     num = int(input(name + ", what is your most favorite number?"))
     
