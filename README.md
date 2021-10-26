@@ -30,5 +30,5 @@ except:
     print("Not a Number.")
 ```
 
-#License
+# License
 We chose to utilize with the ISC License because it is the default license chosen by npm or the Node Package Manager. It is also stated to be equivalent to the MIT License, which is another well-known license. To boot, it is short and simple, concise and easy to understand. We chose the Contributer Covenant Code of Conduct because is a well-known code of conduct. It explicity outlines unacceptable behavior for contributers, and the punishments for doing so. It also outlines shared values and responsibilites that are expected among the contributers.
